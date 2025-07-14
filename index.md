@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Xiao-Hua Luo is a hematologist/immunologist who works at The First Affiliated Hospital of CQMU>
 
 ## Research Interests
 
